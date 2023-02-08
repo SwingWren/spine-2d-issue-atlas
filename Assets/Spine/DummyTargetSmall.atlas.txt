@@ -1,0 +1,11 @@
+DummyTargetSmall.png
+size:172,168
+filter:Linear,Linear
+pma:true
+Assets/Body
+bounds:2,2,142,166
+rotate:90
+Assets/Helix01
+bounds:2,146,81,17
+Assets/Helix02
+bounds:85,146,81,17
